@@ -1,0 +1,117 @@
+Phase 1: Setup & Planning
+
+Tech Stack Decision
+
+Frontend: React + TailwindCSS (clean UI, responsive, fast dev)
+
+Backend: Node.js + Express (API, drone data handling)
+
+Database: MongoDB (user accounts, crop data, metrics)
+
+Optional: WebSockets/MQTT for real-time drone data
+
+Hosting: Replit (for quick deployment), later can move to AWS/Render/Netlify
+
+Page Flow Design
+
+Landing Page (Home) → About project + Login/Signup buttons
+
+Auth Pages → Login, Signup, Forgot Password
+
+Dashboard Pages:
+
+Crop Selection Page
+
+Drone Connection Page (Bluetooth/Network interface)
+
+Field Map Page (field scouted by drones, use Leaflet.js / Google Maps API)
+
+Crop Parameters & Metrics Page (infection %, pesticide needed, sensor data)
+
+Contact Page
+
+Phase 2: Authentication & User Management
+
+Implement Login/Signup
+
+Use JWT-based auth
+
+Store users in MongoDB
+
+Frontend form validation (email, password strength)
+
+Phase 3: Dashboard Core Features
+
+Crop Selection Page
+
+Dropdown/tiles for crop types (Rice, Wheat, Cotton, etc.)
+
+Store selected crop in DB for session
+
+Drone Connection Page
+
+UI buttons for “Connect via Bluetooth” / “Connect via WiFi”
+
+Simulate connection for now (later integrate actual APIs for drone hardware)
+
+Field Map Page
+
+Integrate Leaflet.js / Google Maps API
+
+Show field boundaries
+
+Mark areas where drones have scouted
+
+Later: Add infection heatmap overlay
+
+Parameters & Metrics Page
+
+Show infection percentage, soil moisture, pesticide required (dummy values initially)
+
+Real-time data from backend (later replace dummy with drone IoT data via MQTT/WebSockets)
+
+Graphs → Use Chart.js or Recharts
+
+Phase 4: Support & Contact
+
+Contact Page
+
+Simple form: Name, Email, Message
+
+Store in DB or send via email (Nodemailer)
+
+Phase 5: UI/UX Polish
+
+Professional UI
+
+Use TailwindCSS + ShadCN UI
+
+Consistent theme (green + earthy tones for agriculture, clean minimal layout)
+
+Navigation bar (Home, Dashboard, Contact, Logout)
+
+Phase 6: Integration & Testing
+
+Drone Data Simulation
+
+Create dummy API endpoints (/api/drone/data) returning random values for infection levels
+
+Connect frontend charts/maps to this API
+
+Testing
+
+Test authentication flow
+
+Test navigation between pages
+
+Test real-time updates (simulated for now)
+
+Phase 7: Deployment
+
+Deploy on Replit
+
+Setup environment variables (Mongo URI, JWT secret)
+
+Deploy frontend + backend on Replit
+
+Optional: connect custom domain
