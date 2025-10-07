@@ -1,7 +1,7 @@
 
   # Ocean-Themed Marketing Website
 
-  This is a code bundle for Ocean-Themed Marketing Website. The original project is available at https://www.figma.com/design/EJ4RjHnzrAXswvApQJhkS5/Ocean-Themed-Marketing-Website.
+  This is a code bundle for Ocean-Themed Marketing Website. The original project is available at https://samundra-kula.vercel.app/.
 
   ## Running the code
 
