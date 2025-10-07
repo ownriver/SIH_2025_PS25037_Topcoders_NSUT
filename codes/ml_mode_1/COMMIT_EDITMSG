@@ -1,0 +1,8 @@
+Improve data loading for sediment analysis and map display
+
+Refactor data loading logic in `streamlit_app.py` and `map_analytics.py` to handle potential `None` values from Supabase, ensuring robust data ingestion for sediment analysis and map rendering.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 45898540-b418-4bcc-a148-58985eb7b300
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/ff49b025-7382-4fde-8975-ff30339a6452/45898540-b418-4bcc-a148-58985eb7b300/ESH2IOP
