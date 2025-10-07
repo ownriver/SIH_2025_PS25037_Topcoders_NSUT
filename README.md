@@ -21,8 +21,9 @@
 - **Video Demonstration:** [Watch Video](https://youtu.be/n5xNAdsPdv8)  
 - **Live Deployment:** [View Deployment](https://samundra-kula.vercel.app/)  
 - **Source Code:** [GitHub Repository](https://github.com/ownriver/SIH_2025_Internal_Round_Submission_PS25015)  
-- **Additional Resources:**
-- 
-- **CAD Models**:
-ShoreScan GeoCam Drone Module: [Model#1]([https://drive.google.com/drive/folders/1YHBi8Aip7soEJXCMwnPSAQf9o9I9Tdsd](https://www.tinkercad.com/things/84hizXILJbO-shorescan-geocam-drone-module?sharecode=Tq12qgfbuLvRilAKAOE4jgVqaakFheexa76WJWMH-24))  
-Handheld Controller Module: [Model#2]([https://drive.google.com/drive/folders/1YHBi8Aip7soEJXCMwnPSAQf9o9I9Tdsd](https://www.tinkercad.com/things/6KD16eLthtn-handheld-module?sharecode=TKlevXFPKt2gxHEIBRrMr_XSY4cIYDf4uJMF9Kl9bfs))
+  
+### 🧩 Additional Resources  
+
+**CAD Models:**  
+- **ShoreScan GeoCam Drone Module:** [View on Tinkercad](https://www.tinkercad.com/things/84hizXILJbO-shorescan-geocam-drone-module?sharecode=Tq12qgfbuLvRilAKAOE4jgVqaakFheexa76WJWMH-24)  
+- **Handheld Controller Module:** [View on Tinkercad](https://www.tinkercad.com/things/6KD16eLthtn-handheld-module?sharecode=TKlevXFPKt2gxHEIBRrMr_XSY4cIYDf4uJMF9Kl9bfs)  
