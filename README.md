@@ -15,14 +15,16 @@
 - **Yashika** – 2023UCS1530 – [@yashikavishwakarma](https://github.com/yashikavishwakarma)  
 - **Ajisth Shukla** – 2023UCD12156 – [@shuklaafk](https://github.com/shuklaafk)  
 
-## Project Links
+### Project Resources
 
 - **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAGywzE8Sz8/_o8TOKq4O2XZwdzarCCVAw/edit?utm_content=DAGywzE8Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - **Video Demonstration:** [Watch Video](https://youtu.be/n5xNAdsPdv8)  
-- **Live Deployment:** [View Deployment](https://samundra-kula.vercel.app/)  
+- **Live Deployment:**  
+  - **Frontend:** [samundra-kula.vercel.app](https://samundra-kula.vercel.app/)  
+  - **Demo Dashboard:** [beach-sand-analysis-e8ba.bolt.host](https://beach-sand-analysis-e8ba.bolt.host/)  
 - **Source Code:** [GitHub Repository](https://github.com/ownriver/SIH_2025_PS25037_Topcoders_NSUT)
-  
-### 🧩 Additional Resources  
+- 
+### Additional Resources  
 
 **CAD Models:**  
 - **ShoreScan GeoCam Drone Module:** [View on Tinkercad](https://www.tinkercad.com/things/84hizXILJbO-shorescan-geocam-drone-module?sharecode=Tq12qgfbuLvRilAKAOE4jgVqaakFheexa76WJWMH-24)  
