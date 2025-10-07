@@ -23,7 +23,7 @@
   - **Frontend:** [samundra-kula.vercel.app](https://samundra-kula.vercel.app/)  
   - **Demo Dashboard:** [beach-sand-analysis-e8ba.bolt.host](https://beach-sand-analysis-e8ba.bolt.host/)  
 - **Source Code:** [GitHub Repository](https://github.com/ownriver/SIH_2025_PS25037_Topcoders_NSUT)
-- 
+ 
 ### Additional Resources  
 
 **CAD Models:**  
