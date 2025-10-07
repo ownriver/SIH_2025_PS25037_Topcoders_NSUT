@@ -31,4 +31,4 @@
 - **Handheld Controller Module:** [View on Tinkercad](https://www.tinkercad.com/things/6KD16eLthtn-handheld-module?sharecode=TKlevXFPKt2gxHEIBRrMr_XSY4cIYDf4uJMF9Kl9bfs)  
 
 ### Google Drive Resources  
-Access labeled CAD models, research papers, and the system flowchart:[Project Drive Folder](https://drive.google.com/drive/u/0/folders/1rFSlFELAkaSaR40eVeez0Aw6KOtgk0S5)
+Access **labeled CAD models, research papers, and the system flowchart**: [Project Drive Folder](https://drive.google.com/drive/u/0/folders/1rFSlFELAkaSaR40eVeez0Aw6KOtgk0S5)
