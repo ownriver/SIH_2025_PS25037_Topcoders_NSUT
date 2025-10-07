@@ -17,8 +17,8 @@
 
 ### Project Resources
 
-- **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAGywzE8Sz8/_o8TOKq4O2XZwdzarCCVAw/edit?utm_content=DAGywzE8Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-- **Video Demonstration:** [Watch Video](https://youtu.be/n5xNAdsPdv8)  
+- **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAG0awfKZ4M/7chtycLIzyEtJoiwGcAGmg/edit?utm_content=DAG0awfKZ4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- **Video Demonstration:** [Watch Video](https://youtu.be/cMyrwF17qB0)  
 - **Live Deployment:**  
   - **Frontend:** [samundra-kula.vercel.app](https://samundra-kula.vercel.app/)  
   - **Demo Dashboard:** [beach-sand-analysis-e8ba.bolt.host](https://beach-sand-analysis-e8ba.bolt.host/)  
